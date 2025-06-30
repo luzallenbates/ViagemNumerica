@@ -1,0 +1,24 @@
+{
+	"name": "Viagem Numérica",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "ol1k3gmmqe9",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"c3version": "r440.2",
+	"ife": false,
+	"used-plugins": [
+		"Sprite",
+		"Touch",
+		"Text",
+		"Audio",
+		"video"
+	],
+	"used-behaviors": []
+}
